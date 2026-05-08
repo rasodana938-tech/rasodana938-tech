@@ -14,9 +14,9 @@
 
 
 ### 🚀 Projects
-* **[Website Parkir](https://github.com/rasodana938-tech/DanaMaraso)** - Manajemen data real-time.
+* **[Website Parkir](https://github.com/rasodana938-tech/WebsitePorto)** - Manajemen data real-time.
 * **TaskNode** - Task management system.
-* **Website Portofolio** - Website to display my own Portfolio.
+* **[Website Portofolio](https://github.com/rasodana938-tech/WebsitePorto)** - Website to display my own Portfolio.
   
 ---
 
