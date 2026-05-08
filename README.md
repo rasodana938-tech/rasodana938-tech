@@ -1,4 +1,4 @@
-# Hi, I'm Dana Maraso! 🚀
+# Hi, I'm Dana Maraso! 
 *(Junior Web Developer | Fresh Graduate)*
 
 ![Snake animation](https://raw.githubusercontent.com/rasodana938-tech/rasodana938-tech/output/github-contribution-grid-snake.svg)
