@@ -14,14 +14,15 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rasodana938-tech&show_icons=true&theme=radical" alt="Rasodana Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasodana938-tech&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasodana938-tech&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasodana938-tech&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-* **[Website Parkir](https://github.com/rasodana938-tech/DanaMaraso)** - Manajemen data parkir kendaraan secara real-time.
+* **[Sistem Pembayaran Listrik](https://github.com/rasodana938-tech/DanaMaraso)** - Aplikasi pengelolaan tagihan listrik menggunakan Laravel & MySQL.
+* **[Website Parkir](#)** - Manajemen data parkir kendaraan secara real-time.
 * **[TaskNode](#)** - Task management system untuk produktivitas.
 
 ---
