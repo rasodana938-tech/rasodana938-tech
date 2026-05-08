@@ -23,10 +23,13 @@
 * **[Website Parkir](#)** - Manajemen data parkir kendaraan secara real-time.
 * **[TaskNode](#)** - Task management system untuk produktivitas.
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=ᗧ•••••ᗣ••ᗣ&fontSize=40" width="100%" />
+  <img src="https://raw.githubusercontent.com/MaySperera/Pacman-and-Ghosts-GIF/master/Pacman.gif" width="600" />
 </p>
 
+---
 ---
 <p align="center">
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dnamon15) | [Email](mailto:rasodana938@gmail.com) | [Instagram](https://www.instagram.com/dnamon15)
