@@ -7,22 +7,14 @@
 
 ### 🛠 Tech Stack
 - **Backend:** Laravel, PHP, Java
-- **Database:** MySQL
+- **Database:** MySQL, DBeaver
 - **Tools:** VS Code, Laragon, Git
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rasodana938-tech&show_icons=true&theme=radical" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasodana938-tech&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ### 🚀 Projects
-* **[Sistem Pembayaran Listrik](https://github.com/rasodana938-tech/DanaMaraso)** - Fullstack Laravel.
-* **Website Parkir** - Manajemen data real-time.
+* **[Website Parkir](https://github.com/rasodana938-tech/DanaMaraso)** - Manajemen data real-time.
 * **TaskNode** - Task management system.
 
 ---
