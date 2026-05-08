@@ -1,7 +1,9 @@
-# Hi, I'm Dana Maraso! 
+# Hi, I'm Dana Maraso! 🚀
 *(Fresh Graduate Software Engineering | Fullstack Developer)*
 
-![Snake animation](https://raw.githubusercontent.com/rasodana938-tech/rasodana938-tech/output/github-contribution-grid-snake.svg)
+<p align="left">
+<img src="https://raw.githubusercontent.com/rasodana938-tech/rasodana938-tech/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -30,7 +32,7 @@
 </p>
 
 ---
----
+
 <p align="center">
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dnamon15) | [Email](mailto:rasodana938@gmail.com) | [Instagram](https://www.instagram.com/dnamon15)
 </p>
