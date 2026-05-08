@@ -21,8 +21,7 @@
 ---
 
 ### 🚀 Featured Projects
-* **[Sistem Pembayaran Listrik](https://github.com/rasodana938-tech/DanaMaraso)** - Aplikasi pengelolaan tagihan listrik menggunakan Laravel & MySQL.
-* **[Website Parkir](#)** - Manajemen data parkir kendaraan secara real-time.
+* **[Website Parkir](https://github.com/rasodana938-tech/DanaMaraso)** - Manajemen data parkir kendaraan secara real-time.
 * **[TaskNode](#)** - Task management system untuk produktivitas.
 
 ---
